@@ -2,7 +2,7 @@ var daar, zaar;
 
 function preload() {
     car = loadImage("img/AakaManPng.png");
-    buld = loadImage("img/buld.png");
+    // buld = loadImage("img/buld.png");
     grass = loadImage("Image/grass.png");
     kang = loadImage("img/Snake.png");
     road = loadImage("image/ground.png");
